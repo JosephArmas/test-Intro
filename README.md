@@ -8,6 +8,6 @@ Mark down file:
 I have learned that I had to use a personal access token in order to clone / use git commands
 - creating a branch 
 - pull request
-I am still a little confused on how the merging works when I was doing the pull request 
+- I am still a little confused on how the merging works when I was doing the pull request 
 I hope to grow my understand on that subject of pulling/ commiting in a repository to the point where it becomes 2nd nature to me 
 
